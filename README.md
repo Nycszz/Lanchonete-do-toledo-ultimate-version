@@ -113,13 +113,9 @@ Antes de executar o sistema, certifique-se de ter instalado:
 
 ---
 
-### 2. Clonar o Repositório
+### 2. Download do Projeto
 
-```bash
-git clone URL_DO_REPOSITORIO
-```
-
-ou faça o download do projeto em formato ZIP pelo GitHub.
+Faça o download do projeto em formato ZIP pelo GitHub.
 
 ---
 
@@ -211,9 +207,6 @@ Execute:
 ```text
 Clean and Build
 ```
-
-para gerar todos os arquivos compilados.
-
 ---
 
 Clique em:
