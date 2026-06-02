@@ -265,7 +265,7 @@ Projeto desenvolvido para a disciplina de **Design Patterns** do curso de **Enge
 Desenvolvido por:
 
 * **Beatriz Madeira**
-* **Nycholas Freitas**
+* **Nychollas Freitas**
 
 Estudantes do **5º semestre de Engenharia de Software**.
 
